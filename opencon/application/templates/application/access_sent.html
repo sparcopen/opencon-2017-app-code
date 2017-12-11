@@ -1,0 +1,14 @@
+{% extends 'application/base.html' %}
+
+{% load bootstrap %}
+
+{% block content %}
+    <div class="col-md-6 col-md-offset-3">
+        {% include "./header.html" %}
+        <h1 class="page-title">Draft Application Access Link Sent</h1>
+        <p>We sent you an email with a secure link where you can access your draft application. If the email does not arrive immediately, check your junk or spam folder for an email from noreply@opencon2017.org. If you still cannot find it after 10 minutes, you may try requesting the link again.</p>
+        <p>If you still have not received the email, or do not have access to the email account where it was sent, please <a href="http://www.opencon2017.org/faq#question">contact us</a>.</p>
+        <br>
+        {% include "./footer.html" %}
+    </div>
+{% endblock %}
