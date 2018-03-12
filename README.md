@@ -2,6 +2,8 @@
 
 This application has been designed to support the application process for [OpenCon 2017](http://www.opencon2017.org), the conference and community empowering the next generation to advance open access, open education and open data. It collects  applications to attend the conference and facilitates a multi-step community rating process.
 
+We have also published the code for [OpenCon 2015] and [OpenCon 2016].
+
 ## Installation
 
 This application is using `docker-compose`. The examples below are for the development version of the app using the development version: `dev.yml`.
