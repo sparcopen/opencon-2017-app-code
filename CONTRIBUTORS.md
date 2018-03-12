@@ -1,9 +1,8 @@
-﻿# OpenCon Rating App contributors (sorted alphabetically)
+﻿# OpenCon 2017 App Contributors (sorted alphabetically)
 
 * **[Nicole Allen](https://github.com/txtbks)**
 
-  * Designer of the application form and rating logic
-  * CSS developer
+  * CSS developer, designer of application form and rating logic 
 
 * **[Jan Gondol](https://github.com/jangondol)**
 
